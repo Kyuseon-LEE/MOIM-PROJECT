@@ -15,8 +15,13 @@
 
 <br />
 
-# 📚 Library & F/W
-<img src="https://github.com/user-attachments/assets/e91e02bd-951f-40dc-924a-ab4f6b252293" width="800px"/>
+# 📚 프로젝트 구성도
+<img src="https://github.com/user-attachments/assets/fbaabfcc-38ec-424c-9b4e-5d781f8b550b" width="800px"/>
+
+# 💻 개발 및 배포 파이브라인
+<img src="https://github.com/user-attachments/assets/24f92a29-2a11-4f17-b79f-339dd260c6aa" width="800px"/>
+
+
 
 
 # 📋 프로젝트 아키텍처
