@@ -62,7 +62,7 @@
 
 
 # ✏ GIT
-> REACT https://github.com/Kyuseon-LEE/react-moim-user <br>
+> REACT https://github.com/Kyuseon-LEE/React_moim_user <br>
 > NODE.JS https://github.com/Kyuseon-LEE/node-moim-user <br>
 > SPRING https://github.com/Kyuseon-LEE/moim-api-server <br>
 
